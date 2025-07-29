@@ -1,5 +1,5 @@
 # IUMDE
-Integrated User Manager Developer Environment
+Intelligent User Manager Developer Environment
 
 This is the first attempt at starting on a long journey. I've noticed a big divide between users, and developers of software. I would like to bridge that gap.
 
@@ -12,3 +12,5 @@ To be continued...
 Have a nice day!
 
 Martin
+
+20250729120631
